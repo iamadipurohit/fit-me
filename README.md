@@ -4,8 +4,8 @@
     
     <img src="images/logo.jpg" width="150px" height="150px"/>
     
-     FitMe is a flutter app that can be used to become fit and check proper diets. It is not dependent on network so that you complete your exercises anytime and  anywhere. 
-     It also allow user to create him/her profile so that we can provide them proper    guidance according to there age, height, weight.
+     FitMe is a flutter app that can be used to become fit and check proper diets. It is not dependent on network so that you can complete your exercises anytime and  anywhere. 
+     It also allow user to create him/her profile so that we can provide them proper guidance according to their age, height, weight.
 
     
     Here are the key features in detail:
